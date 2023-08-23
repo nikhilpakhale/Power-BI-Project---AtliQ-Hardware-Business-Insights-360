@@ -14,49 +14,49 @@
 Below are some of the key learnings I have acquired:
 
 **Hard or Tech Skills:**
-✅Data Warehouse - OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing)
-✅Data Extraction from MySQL and Excel to Power BI
-✅Data Validation techniques
-✅Data Transformation
-✅Data Modeling
-✅DAX (Data Analysis Expressions) language
-✅DAX Studio to optimize the report
-✅Creating calculated columns
-✅Creating DAX Measures
-✅Filter Context and Row Context
-✅Data Visualization
-✅Use of bookmarks feature
-✅Importance of KPI indicators
-✅Conditional formatting
-✅Power BI Service
+* Data Warehouse - OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing)
+* Data Extraction from MySQL and Excel to Power BI
+* Data Validation techniques
+* Data Transformation
+* Data Modeling
+* DAX (Data Analysis Expressions) language
+* DAX Studio to optimize the report
+* Creating calculated columns
+* Creating DAX Measures
+* Filter Context and Row Context
+* Data Visualization
+* Use of bookmarks feature
+* Importance of KPI indicators
+* Conditional formatting
+* Power BI Service
 
 **Soft Skills:**
-✅Design rules for an effective dashboard
-✅User Acceptance Testing (UAT)
-✅Stakeholder Mapping Analysis
-✅Stakeholder feedback, management and communication
-✅Business and domain understanding
+* Design rules for an effective dashboard
+* User Acceptance Testing (UAT)
+* Stakeholder Mapping Analysis
+* Stakeholder feedback, management and communication
+* Business and domain understanding
 
 **Business terms:**
-✅P & L statement
-✅Gross Sales
-✅Pre-invoice Deductions
-✅Net Invoice Sales
-✅Post invoice Deductions/Discounts
-✅Net Sales (Revenue)
-✅Cost of Goods Sold (COGS)
-✅Gross Margin
-✅Operational Expense
-✅Net Profit
-✅Revenue Contribution
+* P & L statement
+* Gross Sales
+* Pre-invoice Deductions
+* Net Invoice Sales
+* Post invoice Deductions/Discounts
+* Net Sales (Revenue)
+* Cost of Goods Sold (COGS)
+* Gross Margin
+* Operational Expense
+* Net Profit
+* Revenue Contribution
 
 **Report Pages created:**
-✅Home Page
-✅Finance View
-✅Sales View
-✅Marketing View
-✅Supply Chain View
-✅Executive View
+* Home Page
+* Finance View
+* Sales View
+* Marketing View
+* Supply Chain View
+* Executive View
 
 **Report View:**
 ![BI 360 Cover Photo](https://github.com/nikhilpakhale/Power-BI-Project---AtliQ-Hardware-Business-Insights-360/assets/139328207/6e2f4f48-9b4f-4017-acab-67e2116d14b8)
