@@ -10,6 +10,7 @@
 * Designing and creating an interactive dashboard
 * Stakeholder feedback implementation
 
+Access the interactive dashboard here - https://app.powerbi.com/groups/me/reports/354b112c-9f9c-425c-9c55-ef1a81859052/ReportSection?experience=power-bi
 
 Below are some of the key learnings I have acquired:
 
