@@ -58,12 +58,13 @@ Below are some of the key learnings I have acquired:
 * Supply Chain View
 * Executive View
 
-**Report View:**
-![BI 360 Cover Photo](https://github.com/nikhilpakhale/Power-BI-Project---AtliQ-Hardware-Business-Insights-360/assets/139328207/6e2f4f48-9b4f-4017-acab-67e2116d14b8)
+**Report View:** <br>
+![BI 360 Cover Photo](https://github.com/nikhilpakhale/Power-BI-Project---AtliQ-Hardware-Business-Insights-360/assets/139328207/6e2f4f48-9b4f-4017-acab-67e2116d14b8) 
+<br>
 ![BI 360 Executive View](https://github.com/nikhilpakhale/Power-BI-Project---AtliQ-Hardware-Business-Insights-360/assets/139328207/7ff645fb-2f8b-4b9e-9929-1c7488440653)
 
 
-**Model View:**
+**Model View:**<br>
 ![image](https://github.com/nikhilpakhale/Power-BI-Project---AtliQ-Hardware-Business-Insights-360/assets/139328207/fbea7733-0ac3-4277-9da3-56890745c278)
 
 *A big thank you and a heartfelt gratitude to the mentors Mr.Dhaval Patel and Mr.Hemanand Vadivel along with the entire team of codebasics for providing mentorship and support*
